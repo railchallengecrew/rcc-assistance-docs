@@ -1,22 +1,23 @@
-Welcome to Lumache's documentation!
+Welcome to the RCC Assistance Bot Documentation!
 ===================================
-
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
 .. note::
 
-   This project is under active development.
+   This project is in alpha testing phase. Many commands are unfinished, and the bot may be very buggy.
+
+These docs act mainly as a help page for the commands which are currently avalible.
+**These commands are not final, and may be changed before the release.**
+These docs are designed for admins and moderators. Most (if not all) of the commands listed here are designed for moderator / admin use only.
+The bot only supports Discord's slash commands.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   freezing
+   verififcation
+   channellocks
+   reactionrole
+   warnings
+   tickets
+   status
