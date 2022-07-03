@@ -2,7 +2,7 @@ Welcome to the RCC Assistance Bot Documentation!
 ===================================
 .. note::
 
-   This project is in alpha testing phase. Many commands are unfinished, and the bot may be very buggy.
+   This project is in beta testing phase. Many commands are unfinished, and the bot may be very buggy.
 
 These docs act mainly as a help page for the commands which are currently avalible.
 **These commands are not final, and may be changed before the release.**
