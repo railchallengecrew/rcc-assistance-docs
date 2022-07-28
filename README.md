@@ -3,4 +3,4 @@
 
 Documentation for [railchallengecrew/rcc-assistance](https://github.com/railchallengecrew/rcc-assistance)
 
-Up at [rcc-assistance.docs.flappy.codes](http://rcc-assistance.docs.flappy.codes)
+Up at [rcc-assistance.docs.towel.codes](http://rcc-assistance.docs.towel.codes)
