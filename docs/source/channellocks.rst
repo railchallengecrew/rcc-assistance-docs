@@ -5,7 +5,7 @@ lock
 ------------
 
 **Comamnd:**
-``lock <CHANNEL:channel>```
+``lock <CHANNEL:channel>``
 
 **Permission required: Manage Channels**
 
